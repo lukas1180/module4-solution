@@ -25,7 +25,7 @@
 // Lösung
 
 (function(window) {	
-	var speakWord = "Good Bye";
+	va speakWord = "Good Bye";
 	var byeSpeaker = {};	
 	byeSpeaker. speak = function (name) {
 		console.log(speakWord + " " + name);
